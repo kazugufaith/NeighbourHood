@@ -1,4 +1,4 @@
-<!-- # Neighborhood
+# Neighborhood
 
 #### An application that allows users living in the same neighborhood to stay upto date with the businesses in thier area. Keep in touch with the home area loop and community feel wherever.
 
@@ -58,5 +58,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*
-Copyright (c) 2019 **Faith Kazungu** -->
+Copyright (c) 2019 **Faith Kazungu**
 
