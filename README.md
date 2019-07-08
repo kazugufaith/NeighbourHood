@@ -5,7 +5,7 @@
 #### By Faith Kazungu
 
 ## Description
-Deployed to: 
+Deployed to: https://our-hood.herokuapp.com/
 This is a web platform for users in the same neighborhood stay in touch of the neighborhood activities and on going businesses. Users create an account to join a neighborhood community and can share of any business and it's more detailed information needed to be known to other neighbours of the same neighborhood. Users can search for businesses and view their areas found.
 
 ## Setup/Installation Requirements
