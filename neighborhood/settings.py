@@ -62,17 +62,17 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
-# INSTALLED_APPS = [
-#     'rest_framework',
-#     'bootstrap3',
-#     'hood.apps.HoodConfig',
-#     'django.contrib.admin',
-#     'django.contrib.auth',
-#     'django.contrib.contenttypes',
-#     'django.contrib.sessions',
-#     'django.contrib.messages',
-#     'django.contrib.staticfiles',
-# ]
+INSTALLED_APPS = [
+    'rest_framework',
+    'bootstrap3',
+    'hood.apps.HoodConfig',
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+]
 
 MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
